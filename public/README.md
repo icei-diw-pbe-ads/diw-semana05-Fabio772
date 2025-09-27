@@ -12,14 +12,14 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Fábio Henrique Alves Do Amaral Prado
+- Matricula:1551991
+- Proposta de projeto escolhida:Pessoas e Produções Pessoa Publicações / Obras / Projetos Autores e livros, pesquisadores e artigos, artistas e álbuns
+- Breve descrição sobre seu projeto:O tema “Pessoas e Produções” explora a relação entre indivíduos e as obras, pesquisas ou criações que eles realizam. A ideia central é mostrar como diferentes pessoas interessadas nas áreas do conhecimento, da arte e da cultura, destacando suas produções e impacto.
 
 ## Print da Home-Page
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  ![](<home page smn 5.png>) >>
 
 ## Print da página de detalhes do item
 
