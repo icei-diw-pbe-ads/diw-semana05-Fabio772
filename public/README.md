@@ -23,21 +23,20 @@ Leia o enunciado completo no Canvas.
 
 ## Print da página de detalhes do item
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![](<pagina de detalhe.png>) >>
 
 ## Cole aqui abaixo a estrutura JSON utilizada no app.js
 
 ```javascript
 const dados = [
   {
-    "id": 1,
-    "titulo": "Prefeitura Lança Plano de Mobilidade Urbana",
-    "descricao": "Novo plano do transporte público.",
-    "conteudo": "A Prefeitura apresentou nesta segunda-feira um novo plano de mobilidade urbana.",
-    "categoria": "Cidades",
-    "autor": "Joana Ribeiro",
-    "data": "2025-03-30",
-    "imagem": "img/mobilidade.jpg"
+    const dados = 
+  {id:1,nome:"Antônio Silva",categoria:"Autor",trabalhos:["Livro: Introdução à Literatura","Livro: Contos Modernos"],imagem:"img/literatura-brasileira.png",descricao:"Autor renomado da literatura brasileira.", data:"2025-01-15"},
+  {id:2,nome:"Maria Oliveira",categoria:"Autor",trabalhos:["Livro: História do Brasil","Livro: Geografia Contemporânea"],imagem:"img/origem-da-literatura-brasileira.png",descricao:"Pesquisadora e escritora de obras acadêmicas.", data:"2025-02-10"},
+  {id:3,nome:"Lucas Pereira",categoria:"Pesquisador",trabalhos:["Artigo: Inteligência Artificial na Educação","Artigo: Big Data e Sociedade"],imagem:"img/1_foto_da_ia-28557316.png",descricao:"Pesquisador em tecnologia e impacto social.", data:"2025-03-05"},
+  {id:4,nome:"Carla Mendes",categoria:"Pesquisador",trabalhos:["Artigo: Mudanças Climáticas Globais","Artigo: Sustentabilidade e Economia"],imagem:"img/150209-geral-mudanca-climatica.png",descricao:"Especialista em clima e sustentabilidade.", data:"2025-03-20"},
+  {id:5,nome:"João Santos",categoria:"Artista",trabalhos:["Álbum: Caminhos","Álbum: Origem"],imagem:"img/ab67616d0000b273b09209c44470c8a8.png",descricao:"Cantor e compositor de MPB.", data:"2025-04-01"},
+  {id:6,nome:"Letícia Costa",categoria:"Artista",trabalhos:["Álbum: Horizontes","Álbum: Noites e Sonhos"],imagem:"img/ab67616d00001e02a44c507de10203dc.png",descricao:"Cantora pop brasileira.", data:"2025-04-15"}
   }
 ]
 ```
